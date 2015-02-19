@@ -1,0 +1,14 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "dummy api",
+  "main": "api.js",
+  "scripts": {
+    "start": "node api.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies":{
+      "express":"*"
+  }
+}
